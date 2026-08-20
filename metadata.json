@@ -1,0 +1,6 @@
+{
+  "name": "Memory Palace",
+  "description": "An interactive 2D Memory Palace prototype for spatial memory encoding and gamified revision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
